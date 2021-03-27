@@ -1,0 +1,55 @@
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+html{
+  background-image: linear-gradient(to right, red , yellow);
+  background-color: rgb(26, 0, 51);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+  font-family: garamond,sans-serif;
+  font-weight: bolder;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+#all_about_me{
+  font-family: garamond,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+h4{
+  font-family: garamond,sans-serif;
+  font-weight:bolder;
+  font-size: 25px;
+}
+#follow{
+  font-family: garamond,sans-serif;
+  font-weight: bold;
+  font size:30px;
+}
